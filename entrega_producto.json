@@ -1,0 +1,55 @@
+{
+    "entrega_producto": {
+        "secciones": [
+            {
+                "id": "2.1",
+                "titulo": "Descripción del contexto",
+                "tipo": "contextual"
+            },
+            {
+                "id": "2.2",
+                "titulo": "Propósito y justificación del proyecto",
+                "tipo": "fundamentos"
+            },
+            {
+                "id": "2.3",
+                "titulo": "Análisis de datos y patrones",
+                "tipo": "analisis",
+                "descripcion": "Realizar análisis de los datos disponibles y encontrar patrones de comportamiento"
+            },
+            {
+                "id": "2.4",
+                "titulo": "Documentación del proceso",
+                "tipo": "tecnico",
+                "descripcion": "Explicar paso a paso lo realizado y adjuntar el notebook generado por la herramienta Jupyter Notebook con el código Python usado para el manejo de datos"
+            },
+            {
+                "id": "2.5",
+                "titulo": "Razonamiento y justificación",
+                "tipo": "analisis",
+                "descripcion": "Realizar razonamiento y justificación respecto del análisis de los datos"
+            },
+            {
+                "id": "2.6",
+                "titulo": "Definición de fases y entregables",
+                "tipo": "planificacion",
+                "descripcion": "Definición de fases, tareas y entregables a partir del dataset y el proyecto en general"
+            },
+            {
+                "id": "2.7",
+                "titulo": "Recomendaciones estratégicas",
+                "tipo": "estrategia",
+                "descripcion": "Sugerir decisiones estratégicas para apoyar la toma de decisiones que ayudarán a la organización"
+            },
+            {
+                "id": "2.8",
+                "titulo": "Conclusión",
+                "tipo": "cierre"
+            }
+        ],
+        "metadata": {
+            "tipo_documento": "Informe",
+            "formato_entrega": "Documento técnico con notebook adjunto"
+        }
+    }
+}

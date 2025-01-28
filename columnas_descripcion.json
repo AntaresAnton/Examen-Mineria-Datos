@@ -1,0 +1,100 @@
+{
+    "columnas": [
+        {
+            "nombre": "Fecha",
+            "descripcion": "fecha de la observación"
+        },
+        {
+            "nombre": "Ubicacion",
+            "descripcion": "ubicación de la estación meteorológica"
+        },
+        {
+            "nombre": "MinTemp",
+            "descripcion": "temperatura mínima en grados Celsius"
+        },
+        {
+            "nombre": "MaxTemp",
+            "descripcion": "temperatura máxima en grados Celsius"
+        },
+        {
+            "nombre": "Lluvia",
+            "descripcion": "cantidad de lluvia registrada ese día en mm."
+        },
+        {
+            "nombre": "Evaporacion",
+            "descripcion": "evaporación (mm) en 24 horas"
+        },
+        {
+            "nombre": "Sol",
+            "descripcion": "número de horas de sol brillante en el día"
+        },
+        {
+            "nombre": "DirRafaga",
+            "descripcion": "dirección de la ráfaga de viento más fuerte en 24 horas"
+        },
+        {
+            "nombre": "VelRafaga",
+            "descripcion": "velocidad (km/hr) de la ráfaga de viento más fuerte en 24 horas"
+        },
+        {
+            "nombre": "Dir9am",
+            "descripcion": "dirección del viento a las 9am"
+        },
+        {
+            "nombre": "Dir3pm",
+            "descripcion": "dirección del viento a las 3pm"
+        },
+        {
+            "nombre": "Vel9am",
+            "descripcion": "velocidad (km/hr) del viento a las 9am"
+        },
+        {
+            "nombre": "Vel3pm",
+            "descripcion": "velocidad (km/hr) del viento a las 3pm"
+        },
+        {
+            "nombre": "Hum9am",
+            "descripcion": "porcentaje de humedad a las 9am"
+        },
+        {
+            "nombre": "Hum3pm",
+            "descripcion": "porcentaje de humedad a las 3pm"
+        },
+        {
+            "nombre": "Pres9am",
+            "descripcion": "presión atmosférica (hpa) a nivel del mar a las 9am"
+        },
+        {
+            "nombre": "Pres3pm",
+            "descripcion": "presión atmosférica (hpa) a nivel del mar a las 3pm"
+        },
+        {
+            "nombre": "Nub9am",
+            "descripcion": "fracción del cielo cubierto por nubes a las 9am. Se mide en octavos, de manera que un valor 0 indica cielo totalmente despejado y 8, cielo totalmente cubierto"
+        },
+        {
+            "nombre": "Nub3pm",
+            "descripcion": "fracción del cielo cubierto por nubes a las 3pm. Se mide en octavos, de manera que un valor 0 indica cielo totalmente despejado y 8, cielo totalmente cubierto"
+        },
+        {
+            "nombre": "Temp9am",
+            "descripcion": "temperatura en grados celsius a las 9am"
+        },
+        {
+            "nombre": "Temp3pm",
+            "descripcion": "temperatura en grados celsius a las 3pm"
+        },
+        {
+            "nombre": "LluviaHoy",
+            "descripcion": "variable indicadora que toma el valor 1 si la precipitación en mm. en las últimas 24 hrs. excede 1 mm. y 0 si no"
+        },
+        {
+            "nombre": "RISK_MM",
+            "descripcion": "La cantidad de lluvia. Una especie de medida del riesgo"
+        },
+        {
+            "nombre": "LluviaMan",
+            "descripcion": "variable indicadora que toma el valor 1 si al día siguiente llovió y 0 si no"
+        }
+    ]
+}

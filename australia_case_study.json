@@ -1,0 +1,130 @@
+{
+    "caso_estudio": {
+        "titulo": "Australia: Características Geográficas y Climáticas",
+        "geografia": {
+            "extension": {
+                "superficie_total": "7.741.220 km²",
+                "comparacion": "quince veces superior a España",
+                "porcentaje_mundial": "5% de la superficie terrestre emergida",
+                "ranking_mundial": "sexto país del mundo en extensión",
+                "dimensiones": {
+                    "este_oeste": "4.100 km",
+                    "norte_sur": "3.200 km",
+                    "costa": "36.735 km"
+                }
+            },
+            "caracteristicas": {
+                "terreno": "más llano de los continentes",
+                "altitud_media": "menos de 300 metros",
+                "cordillera_principal": "Gran Cordillera Divisoria (The Great Dividing Range)",
+                "pico_mas_alto": {
+                    "nombre": "Monte Kosciuszko",
+                    "altura": "2.228 metros"
+                }
+            },
+            "rios_principales": [
+                "Murray",
+                "Darling"
+            ],
+            "cuenca_principal": {
+                "nombre": "Murray-Darling",
+                "extension": "1.061.469 km²"
+            }
+        },
+        "division_administrativa": {
+            "estados": [
+                "New South Wales",
+                "Victoria",
+                "Queensland",
+                "South Australia",
+                "Western Australia",
+                "Tasmania"
+            ],
+            "territorios": [
+                "Northern Territory",
+                "Australian Capital Territory (ACT)"
+            ]
+        },
+        "ciudades_principales": [
+            {
+                "nombre": "Sídney",
+                "poblacion": "5.73 millones",
+                "caracteristicas": "capital de Nueva Gales del Sur, centro industrial y puerto comercial"
+            },
+            {
+                "nombre": "Melbourne",
+                "poblacion": "5.19 millones"
+            },
+            {
+                "nombre": "Brisbane",
+                "poblacion": "2.56 millones"
+            },
+            {
+                "nombre": "Perth",
+                "poblacion": "2.38 millones"
+            },
+            {
+                "nombre": "Adelaide",
+                "poblacion": "1.41 millones"
+            }
+        ],
+        "demografia": {
+            "poblacion_total": "más de 25 millones",
+            "distribucion": {
+                "zonas_urbanas": "90%",
+                "edad_laboral": "65.5%",
+                "mayores_65": "15.7%",
+                "menores_15": "18.8%"
+            }
+        },
+        "clima": {
+            "tipos": [
+                "tropical en el norte (39% del territorio)",
+                "templado-continental en sudeste y Tasmania",
+                "desértico en el centro"
+            ],
+            "temperaturas": {
+                "norte": "27°C",
+                "sur": "13°C",
+                "centro_maxima": "38°C"
+            },
+            "estaciones": {
+                "primavera": "septiembre y octubre",
+                "verano": "noviembre-marzo",
+                "otono": "abril y mayo",
+                "invierno": "junio-agosto"
+            },
+            "fenomenos_naturales": [
+                "sequías",
+                "inundaciones",
+                "ciclones tropicales",
+                "vendavales",
+                "incendios forestales",
+                "tornados"
+            ]
+        },
+        "economia": {
+            "sector_minero": {
+                "porcentaje_pib": "10%",
+                "valor": "148.000 millones AUD",
+                "crecimiento_2018_19": "6%",
+                "exportaciones_esperadas_2019_20": "299.000 millones AUD"
+            },
+            "principales_exportaciones": [
+                "bauxita",
+                "alúmina",
+                "mineral de hierro",
+                "zinc",
+                "carbón",
+                "gas natural licuado (GNL)"
+            ]
+        },
+        "dataset": {
+            "fuente": "Oficina de Meteorología de la Commonwealth de Australia",
+            "variables_objetivo": {
+                "RainTomorrow": "indica si hay lluvia al día siguiente (No/Sí)",
+                "RISK_MM": "cantidad de lluvia registrada en milímetros"
+            }
+        }
+    }
+}

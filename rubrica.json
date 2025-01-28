@@ -1,0 +1,28 @@
+{
+    "objetivos_aprendizaje": [
+        {
+            "criterio": "Los objetivos del consumo de información se estructuran de acuerdo al proceso de minería de datos seleccionado.",
+            "indicador": "Aplica una metodología de datos para el desarrollo de los proyectos de minería de datos, considerando el análisis del problema."
+        },
+        {
+            "criterio": "Los datos se pre-procesan de acuerdo a la información contenida en el conjunto de datos.",
+            "indicador": "Prepara los datos, considerando la obtención y análisis de éstos, para la aplicación de las técnicas de minería de datos."
+        },
+        {
+            "criterio": "Las técnicas de minería de datos se desarrollan de acuerdo a los requerimientos del negocio.",
+            "indicador": "Aplica técnicas de minería de datos, según los requerimientos planteados en la problemática."
+        },
+        {
+            "criterio": "Los modelos de predicción se evalúan de acuerdo a los requerimientos de la organización.",
+            "indicador": "Aplica modelos predictivos a los set de datos identificados, considerando las características del problema."
+        },
+        {
+            "criterio": "Los patrones de comportamiento se descubren de acuerdo a las necesidades de toma de decisión de la organización.",
+            "indicador": "Descubre patrones de comportamiento de los datos, con el fin de obtener información que ayude a la toma de decisiones de la organización."
+        },
+        {
+            "criterio": "Documentación del proceso",
+            "indicador": "Documenta el proceso realizado, incluyendo nuevo insights que permitan resolver otras problemáticas en el negocio y la posible automatización del proceso."
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "desarrollo_producto": {
+        "etapas": [
+            {
+                "id": "1.1",
+                "nombre": "Exploración, limpieza y transformación de datos",
+                "descripcion": "Preparación inicial del conjunto de datos"
+            },
+            {
+                "id": "1.2",
+                "nombre": "Desarrollo del proyecto",
+                "descripcion": "Desarrolla un proyecto de minería de datos utilizando la herramienta Jupyter Notebook"
+            },
+            {
+                "id": "1.3",
+                "nombre": "Análisis organizacional",
+                "descripcion": "Realice un análisis de la organización y de los datos que disponen antes de comenzar a trabajar los registros"
+            },
+            {
+                "id": "1.4",
+                "nombre": "Análisis exploratorio",
+                "descripcion": "Realizar el análisis exploratorio de los datos (EDA), obtener representación gráfica de estos para tomar decisiones acertadas sobre la utilidad de los datos conforme al comportamiento observado"
+            },
+            {
+                "id": "1.5",
+                "nombre": "Generación de conocimiento",
+                "descripcion": "Generar información y conocimiento útil desde las fuentes de datos y la experiencia, para apoyar la toma de decisiones de acuerdo con las necesidades de la organización"
+            },
+            {
+                "id": "1.6",
+                "nombre": "Evaluación de algoritmos",
+                "descripcion": "Evalúe usando algoritmos supervisados y no supervisados"
+            },
+            {
+                "id": "1.7",
+                "nombre": "Evaluación de métricas",
+                "descripcion": "Evalúa el algoritmo en base a las métricas que corresponda para determinar cuál es el más adecuado al contexto"
+            }
+        ]
+    }
+}
